@@ -6,6 +6,13 @@
       "password": "admin123",
       "role": "admin",
       "created_at": "2026-03-06"
+    },
+    {
+      "username": "tess",
+      "password": "tes123",
+      "role": "reseller",
+      "durasi": "Permanent",
+      "id": 1772812626670
     }
   ]
 }
