@@ -34,6 +34,13 @@
       "role": "reseller",
       "durasi": "Permanent",
       "id": 1772865173746
+    },
+    {
+      "username": "marsel",
+      "password": "marselxyreseller9",
+      "role": "reseller",
+      "durasi": "Permanent",
+      "id": 1773550368911
     }
   ]
 }
